@@ -3,7 +3,7 @@
 A Task Management Web Application designed for sales teams to manage and prioritize tasks based on ROI (Return on Investment).
 
 ## 🚀 Live Deployment
-🔗 **Live App:** https://task-glitch-self.vercel.app
+🔗 **Live App:** https://gidigi-venkata-kishore-task-glitch.vercel.app
 
 ## 📦 GitHub Repository
 🔗 **Source Code:** https://github.com/kishore631/task-glitch
